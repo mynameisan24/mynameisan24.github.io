@@ -1,0 +1,135 @@
+:root {
+    --green: rgb(64, 197, 40);
+    --grey: grey;
+    --white: white;
+}
+/*  */
+/*  */
+/*  */
+.an_border_0 {
+    margin: 0;
+    padding: 0;
+    border: 3px solid var(--green);
+}
+.an_border_11 {
+    margin: 0;
+    padding: 0;
+    border: 1px solid var(--green);
+    border-top: none;
+    border-bottom: none;
+}
+.an_border_111 {
+    margin: 0;
+    padding: 0;
+    border: 1px solid var(--green);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+/*  */
+/*  */
+/*  */
+.an_hr_0 {
+    margin: 0;
+    margin-inline: auto;
+    padding: 0;
+    height: 2px;
+    background-color: var(--green);
+    width: 60px;
+    border-radius: 5px;
+}
+/*  */
+/*  */
+/*  */
+.an_title_0 {
+    margin: 0;
+    padding: 0;
+    font-size: 36px;
+    text-align: center;
+}
+.an_title_1 {
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    text-align: center;
+}
+.an_title_11 {
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    text-align: center;
+}
+/*  */
+/*  */
+/*  */
+.an_text_0 {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    text-align: justify;
+    color: var(--white);
+}
+.an_text_link {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    color: var(--white);
+    border-bottom: 1px solid var(--white);
+}
+.an_text_link:link {
+    text-decoration: none;
+}
+.an_text_link:hover {
+    border-bottom: 2px solid var(--green);
+}
+.an_text_link:active {
+    font-weight: bold;
+}
+/*  */
+/*  */
+/*  */
+.an_info_0 {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    font-style: italic;
+    color: var();
+}
+.an_info_1 {
+    margin: 0;
+    padding: 0;
+    padding-right: 16px;
+    text-align: justify;
+    font-size: 12px;
+    font-style: italic;
+    color: var(--grey);
+}
+.an_info_11 {
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    font-size: 12px;
+    font-style: italic;
+    color: var(--grey);
+}
+.an_info_link {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    font-style: italic;
+    color: var(--white);
+    border-bottom: 1px solid var(--white);
+}
+.an_info_link:link {
+    text-decoration: none;
+}
+.an_info_link:hover {
+    border-bottom: 2px solid var(--green);
+}
+.an_info_link:active {
+    font-weight: bold;
+}
+/*  */
+/*  */
+/*  */
+
